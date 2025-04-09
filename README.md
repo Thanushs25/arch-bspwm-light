@@ -1,6 +1,6 @@
 # Arch 
 
-##Features
+## Features
 - OS : Arch Linux
 - Window Manager : Bspwm
 - Shell : fish
@@ -11,7 +11,7 @@
 - Window Switcher : rofi
 - Audio Player : cmus
 
-##Screenshots
+## Screenshots
 
 - **Window**
   ![Window](https://github.com/Thanushs25/arch-bspwm-light/blob/main/Pictures/01.png)
