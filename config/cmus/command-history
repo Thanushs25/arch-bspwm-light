@@ -1,0 +1,7 @@
+add Songs/
+clear
+wq
+add /Windows/Tamil Songs/
+colorscheme cyan
+colorscheme amazon
+update-cache 

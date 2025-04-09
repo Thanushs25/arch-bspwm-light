@@ -1,0 +1,27 @@
+* {
+    background: #282828;
+    foreground: #ebdbb2;
+    border-color: #98971a;
+    border: 2px solid;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+window {
+    location: center;
+    width: 50%;
+}
+
+listview {
+    lines: 15;
+}
+
+element {
+    height: 30px;
+}
+
+selected {
+    background: #d79921;
+    color: #282828;
+}
+
